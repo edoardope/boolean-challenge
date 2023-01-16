@@ -1,0 +1,83 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+
+.sfondointerno{
+    opacity: 0.6;
+    background-color: black;
+    border: 1px solid black; /*bordo*/ 
+    width: auto;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    padding: 50px; /*distanza interna*/
+    border-radius: 10px; /*arrotonda i bordi*/
+}
+
+.logo{
+    width: 30%;
+    margin-left: 35%;
+}
+
+.headertext{
+    color: lime;
+    font-size: xx-large;
+    margin-left: 23%;
+}
+
+nav{
+    margin: 0;
+    border-right-width: 10px;
+    border-right: 10px;
+    height: 35px;
+    background-color: lime;
+    padding-top: 15px;
+    padding-left: 220px;
+    
+}
+
+.paragrafo{
+    margin-top: 20px;
+}
+
+.text{
+    color: white;
+    font-size: x-large;
+    
+}
+
+.sottotext{
+    color: white;
+    display: block;
+}
+
+.quadrato{
+    background-color: rgb(255, 0, 0);
+    border: 1px solid black; /*bordo*/ 
+    margin: 5px; /*distanza esterna*/
+    margin-right: 300px;
+    padding: 15px; /*distanza interna*/
+    border-radius: 5px; /*arrotonda i bordi*/
+}    
+
+.quadrato2{
+    background-color: rgb(70, 60, 60);
+    border: 1px solid black; /*bordo*/ 
+    margin: 5px; /*distanza esterna*/
+    margin-right: 200px;
+    padding: 15px; /*distanza interna*/
+    border-radius: 5px; /*arrotonda i bordi*/
+}
+
+.quadrato3{
+    background-color: rgb(57, 26, 230);
+    border: 1px solid black; /*bordo*/ 
+    margin: 5px; /*distanza esterna*/
+    margin-right: 500px;
+    padding: 15px; /*distanza interna*/
+    border-radius: 5px; /*arrotonda i bordi*/
+}    
